@@ -1,1 +1,3 @@
+BOT_TOKEN = "123456789:ABCDefGhIjkLmNOpQRstuVWxyz1234567890"
+DB_PATH = "company.db"
 
